@@ -1,0 +1,12 @@
+REPO_TAGLINE: Data structures • algorithms • problem solving
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/SCE0603-Algoritmos-e-Estrutura-De-Dados-I
+
+BG_1: "#1E1B4B"
+BG_2: "#312E81"
+TEXT_MAIN: "#EEF2FF"
+TEXT_MUTED: "#C7D2FE"
+ACCENT: "#818CF8"
+CARD_RADIUS: "18"
